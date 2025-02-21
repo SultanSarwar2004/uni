@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node_modules/.bin/vite",
+    "build": "node_modules/.bin/vite.ps1",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
